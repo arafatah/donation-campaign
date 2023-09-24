@@ -2,11 +2,16 @@
 const Banner = () => {
     return (
         <div style={{ fontFamily: "'Inter', sans-serif" }}>
-            <p className="text-center font-bold text-5xl ">I Grow By Helping People In Need</p>
-            <form action="" className="flex items-center justify-center mt-4">
-                <input className="py-4 px-5" type="text" />
-                <button className="py-4 px-5 rounded-e-xl bg-red-700 text-white">Search</button>
-            </form>
+            <div className="hero min-h-screen" style={{ backgroundImage: 'url(https://i.ibb.co/6bSsJPX/pexels-5.jpg)' }}>
+                <div className="hero-overlay bg-opacity-80"></div>
+                <div className="hero-content text-center text-neutral-content">
+                    <div className="">
+                        <h1 className="mb-5 text-5xl font-bold text-white">I Grow By Helping People In Need</h1>
+                        <input className="py-4 px-8 rounded-s-md" type="text" />
+                        <button className=" py-4 px-5 rounded md:rounded-e-xl bg-red-700 text-white">Search</button>
+                    </div>
+                </div>
+            </div>
 
         </div>
     );
