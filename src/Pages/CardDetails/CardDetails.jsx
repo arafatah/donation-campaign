@@ -9,7 +9,7 @@ const CardDetails = () => {
 
     return (
         <div className="container mx-auto">
-            <div className="md:px-10 py-7">
+            
                 
             
             <div className="relative flex justify-center items-center">
@@ -23,9 +23,6 @@ const CardDetails = () => {
                 <p className="font-bold text-4xl mb-4">{card.title}</p>
                 <p className="font-normal text-base text-justify lg:w-[1320px]">{card.description}</p>
             </div>
-
-            </div>
-
         </div>
     );
 };
