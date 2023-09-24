@@ -1,4 +1,5 @@
 import Banner from "../../Components/Header/Banner/Banner";
+import Cards from "./cards/Cards";
 
 
 const Home = () => {
@@ -7,8 +8,7 @@ const Home = () => {
             <div>
             <Banner></Banner>
             </div>
-            
-            
+            <Cards></Cards>
         </div>
     );
 };

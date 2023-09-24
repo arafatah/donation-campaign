@@ -5,11 +5,11 @@ const NavBar = () => {
     return (
         <div>
             <div>
-                <nav className="flex justify-between items-center py-6 px-5">
+                <nav className="md:flex justify-center md:justify-between items-center py-6 px-5">
 
-                    <img src="./img/Logo.png" alt="" />
+                    <img src="https://i.ibb.co/RYGvjGK/Logo.png" alt="" />
 
-                    <ul className="flex gap-5">
+                    <ul className="md:flex gap-5 smt-7">
                         <li>
                             <NavLink
                                 to="/"
