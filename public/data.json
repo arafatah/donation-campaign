@@ -11,7 +11,8 @@
       "text_color": "#0052FF",
       "description": "Health Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula.",
       "price": "$19.99",
-      "details_tab_img": "https://i.ibb.co/gdSf38n/pexels-andrea-piacquadio-3755440.jpg"
+      "details_tab_img": "https://i.ibb.co/gdSf38n/pexels-andrea-piacquadio-3755440.jpg",
+      "details_btn_color": "#0052FF"
     },
     {
       "id": 2,
@@ -25,7 +26,8 @@
       "text_color": "#FF444A",
       "description": "Education Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula.",
       "price": "$29.99",
-      "details_tab_img": "https://i.ibb.co/F3cGrMR/Rectangle-4288.png"
+      "details_tab_img": "https://i.ibb.co/F3cGrMR/Rectangle-4288.png",
+      "details_btn_color": "#FF444A"
     },
     {
       "id": 3,
@@ -39,7 +41,8 @@
       "text_color": "#79C23F",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismodLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula ligula ut vehiculaClothing Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula.",
       "price": "$39.99",
-      "details_tab_img": "https://i.ibb.co/0BBJbjP/pexels-julia-m-cameron-6995178.jpg"
+      "details_tab_img": "https://i.ibb.co/0BBJbjP/pexels-julia-m-cameron-6995178.jpg",
+      "details_btn_color": "#79C23F"
     },
     {
       "id": 4,
@@ -53,7 +56,8 @@
       "text_color": "#F87147",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula uLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculat vehiculaFood Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula.",
       "price": "$49.99",
-      "details_tab_img": "https://i.ibb.co/cD0xYsz/pexels-6646862.jpg"
+      "details_tab_img": "https://i.ibb.co/cD0xYsz/pexels-6646862.jpg",
+      "details_btn_color": "#F87147"
     },
     {
         "id": 8,
@@ -67,7 +71,8 @@
         "text_color": "#F87147",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaFood Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula",
         "price": "$89.99",
-        "details_tab_img": "https://i.ibb.co/cD0xYsz/pexels-6646862.jpg"
+        "details_tab_img": "https://i.ibb.co/cD0xYsz/pexels-6646862.jpg",
+        "details_btn_color": "#F87147"
       },
       {
         "id": 7,
@@ -81,7 +86,8 @@
         "text_color": "#79C23F",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaClothing Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula",
         "price": "$79.99",
-        "details_tab_img": "https://i.ibb.co/0BBJbjP/pexels-julia-m-cameron-6995178.jpg"
+        "details_tab_img": "https://i.ibb.co/0BBJbjP/pexels-julia-m-cameron-6995178.jpg",
+        "details_btn_color": "#79C23F"
       },
       {
         "id": 6,
@@ -95,7 +101,9 @@
         "text_color": "#FF444A",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaEducation Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula.",
         "price": "$69.99",
-        "details_tab_img": "https://i.ibb.co/F3cGrMR/Rectangle-4288.png"
+        "details_tab_img": "https://i.ibb.co/F3cGrMR/Rectangle-4288.png",
+        "details_btn_color": "#FF444A"
+        
       },
     {
       "id": 5,
@@ -109,7 +117,8 @@
       "text_color": "#0052FF",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaHealth Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula",
       "price": "$59.99",
-      "details_tab_img": "https://i.ibb.co/gdSf38n/pexels-andrea-piacquadio-3755440.jpg"
+      "details_tab_img": "https://i.ibb.co/gdSf38n/pexels-andrea-piacquadio-3755440.jpg",
+      "details_btn_color": "#0052FF"
     },
 
     {
@@ -124,7 +133,8 @@
       "text_color": "#0052FF",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaClean Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula",
       "price": "$99.99",
-      "details_tab_img": "https://i.ibb.co/gdSf38n/pexels-andrea-piacquadio-3755440.jpg"
+      "details_tab_img": "https://i.ibb.co/gdSf38n/pexels-andrea-piacquadio-3755440.jpg",
+      "details_btn_color": "#0052FF"
     },
     {
       "id": 10,
@@ -138,7 +148,8 @@
       "text_color": "#FF444A",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaEducation Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula",
       "price": "$109.99",
-      "details_tab_img": "https://i.ibb.co/F3cGrMR/Rectangle-4288.png"
+      "details_tab_img": "https://i.ibb.co/F3cGrMR/Rectangle-4288.png",
+      "details_btn_color": "#FF444A"
     },
     {
       "id": 11,
@@ -152,7 +163,8 @@
       "text_color": "#79C23F",
       "description": "Clothing Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula",
       "price": "$119.99",
-      "details_tab_img": "https://i.ibb.co/0BBJbjP/pexels-julia-m-cameron-6995178.jpg"
+      "details_tab_img": "https://i.ibb.co/0BBJbjP/pexels-julia-m-cameron-6995178.jpg",
+      "details_btn_color": "#79C23F"
     },
     {
       "id": 12,
@@ -166,6 +178,8 @@
       "text_color": "#F87147",
       "description": "Food Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehiculaLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ut vehicula.",
       "price": "$129.99",
-      "details_tab_img": "https://i.ibb.co/cD0xYsz/pexels-6646862.jpg"
+      "details_tab_img": "https://i.ibb.co/cD0xYsz/pexels-6646862.jpg",
+      "details_btn_color": "#F87147"
+      
     }
   ]

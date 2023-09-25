@@ -21,7 +21,7 @@ const Donation = () => {
             {
                 totalDonation.length
             }
-            <div>
+            <div className="grid grid-cols-2 gap-5 container mx-auto">
                 {
                     totalDonation.map(card => <TotalDonation key={totalDonation.id} card={card}></TotalDonation>)
                 }
