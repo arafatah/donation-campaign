@@ -4,10 +4,10 @@ const TotalDonation = ({card}) => {
     const { id, details_picture, title, category, category_bg, card_bg, text_button_bg, text_color, price } = card;
     return (
         <div>
-            <div style={{backgroundColor: card_bg}} className="flex flex-col items-center rounded-lg shadow md:flex-row  ">
+            <div style={{backgroundColor: card_bg}} className="flex flex-col items-center rounded-lg shadow lg:flex-row  ">
                 <img className="object-cover rounded-t-lg md:rounded-none md:rounded-l-lg" src={details_picture} alt="" />
-                    <div className="flex flex-col justify-between p-4 leading-normal">
-                    <p style={{backgroundColor: text_button_bg, color: text_color}} className="w-full px-3 py-2 text-sm font-medium rounded-lg">
+                    <div className="flex flex-col  p-4 leading-normal">
+                    <p style={{backgroundColor: text_button_bg, color: text_color}} className=" px-3 py-2 text-sm font-medium rounded-lg">
                         {category}
                     </p>
                         <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">{title}</h5>

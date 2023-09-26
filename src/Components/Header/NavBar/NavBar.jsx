@@ -1,4 +1,4 @@
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 
 
 const NavBar = () => {
@@ -10,6 +10,7 @@ const NavBar = () => {
                     <img src="https://i.ibb.co/RYGvjGK/Logo.png" alt="" />
 
                     <ul className="md:flex gap-5 smt-7">
+                        <Link to="/">
                         <li>
                             <NavLink
                                 to="/"
@@ -21,6 +22,7 @@ const NavBar = () => {
                             </NavLink>
 
                         </li>
+                        </Link>
 
                         <li>
                             <NavLink

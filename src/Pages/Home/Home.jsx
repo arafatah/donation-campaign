@@ -1,14 +1,17 @@
+import { useState } from "react";
 import Banner from "../../Components/Header/Banner/Banner";
 import Cards from "./cards/Cards";
 
 
 const Home = () => {
+    const [value, setValue] = useState('')
+
     return (
         <div>
             <div>
-            <Banner></Banner>
+            <Banner setValue={setValue}></Banner>
             </div>
-            <Cards></Cards>
+            <Cards value={value}></Cards>
         </div>
     );
 };

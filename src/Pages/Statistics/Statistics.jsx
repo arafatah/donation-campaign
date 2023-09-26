@@ -1,11 +1,12 @@
+import PiChart from "../../Components/PiChart/PiChart";
 
 
 const Statistics = () => {
     return (
-        <div>
-            Statistics data here
-        </div>
+      <div>
+        <PiChart></PiChart>
+      </div>
     );
-};
-
-export default Statistics;
+  };
+  
+  export default Statistics;
