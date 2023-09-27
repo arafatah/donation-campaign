@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 
 const TotalDonation = ({card}) => {
@@ -12,7 +13,7 @@ const TotalDonation = ({card}) => {
                     </p>
                         <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">{title}</h5>
                         <p style={{color: text_color }} className="mb-3 font-medium text-gray-700 dark:text-gray-400">{price}</p>
-                        <button style={{backgroundColor: category_bg, }} className="text-white px-4 py-2 rounded-md">View Details</button>
+                        <Link to={`/card/${id}`}><button style={{backgroundColor: category_bg, }} className="text-white px-4 py-2 rounded-md">View Details</button></Link>
                     </div>
             </div>
         </div>

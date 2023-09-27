@@ -6,7 +6,7 @@ import Card from "../Card/Card";
 
 const Cards = ({value}) => {
     const [cards, setCards] = useState([]);
-    const [filterdonation, SetFilterDonation] = useState([]);
+    const [filterDonation, SetFilterDonation] = useState([]);
 
     useEffect(() => {
         const newDonation = cards.filter((item) => item.category.includes(value))
@@ -22,7 +22,7 @@ const Cards = ({value}) => {
     return (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 container mx-auto gap-6 my-24 ">
             {
-                filterdonation?.map(card => <Card key={card.id} card={card}></Card>)
+                filterDonation?.map(card => <Card key={card.id} card={card}></Card>)
             }
         </div>
     );

@@ -6,8 +6,8 @@ const NavBar = () => {
         <div>
             <div>
                 <nav className="md:flex justify-center md:justify-between items-center py-6 px-5">
-
-                    <img src="https://i.ibb.co/RYGvjGK/Logo.png" alt="" />
+                    <Link to="/">
+                    <img src="https://i.ibb.co/RYGvjGK/Logo.png" alt="" /></Link>
 
                     <ul className="md:flex gap-5 smt-7">
                         <Link to="/">
